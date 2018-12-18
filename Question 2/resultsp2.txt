@@ -1,0 +1,58 @@
+         4.92903758e+01]))
+gohawks
+		 
+		 ('t_test: ', <bound method OLSResults.t_test of <statsmodels.regression.linear_m
+odel.OLSResults object at 0x06960710>>)
+('p values: ', array([  2.52193442e-01,   9.63039752e-22,   5.25424461e-07,
+         3.27481263e-01,   4.61699694e-02,   4.56144890e-01]))
+('t values', array([ 1.14572464,  9.81609792, -5.05103564,  0.97969749, -1.99641
+199,
+        0.74551051]))
+		
+		
+	gopatriots	
+		
+		
+		('t_test: ', <bound method OLSResults.t_test of <statsmodels.regression.linear_m
+odel.OLSResults object at 0x068E9210>>)
+('p values: ', array([  8.92070115e-01,   1.08157754e-12,   3.05268438e-27,
+         4.79408815e-13,   5.00175567e-07,   8.62021063e-01]))
+('t values', array([ -0.13574235,  -7.27458503,  11.3598679 ,  -7.39326329,
+         5.08131133,  -0.17387602]))
+		 
+	nfl	 
+		 ('t_test: ', <bound method OLSResults.t_test of <statsmodels.regression.linear_m
+odel.OLSResults object at 0x06934650>>)
+('p values: ', array([  2.16182758e-02,   2.14790503e-02,   9.93327182e-01,
+         1.27731486e-17,   1.54730733e-11,   2.13951637e-02]))
+('t values', array([  2.30093263e+00,   2.30339136e+00,  -8.36550823e-03,
+         8.72060148e+00,  -6.82947802e+00,   2.30487952e+00]))
+patriots		 
+		 
+('t_test: ', <bound method OLSResults.t_test of <statsmodels.regression.linear_m
+odel.OLSResults object at 0x068F99D0>>)
+('p values: ', array([  5.35893429e-01,   4.16099783e-41,   7.88277163e-06,
+         9.05079535e-02,   1.47411241e-03,   5.25877882e-01]))
+('t values', array([  0.61925465,  14.0776699 ,  -4.49250347,  -1.69440539,
+         3.18882382,   0.63453938]))
+
+
+sb49
+
+('t_test: ', <bound method OLSResults.t_test of <statsmodels.regression.linear_m
+odel.OLSResults object at 0x06908490>>)
+('p values: ', array([  7.10135151e-01,   8.87624133e-27,   3.45283671e-02,
+         3.35582303e-01,   1.42110767e-05,   3.26590166e-01]))
+('t values', array([  0.37185825,  11.27439719,  -2.11887527,   0.96373683,
+         4.37823761,  -0.98184148]))
+		 
+		 
+superbowl
+
+('t_test: ', <bound method OLSResults.t_test of <statsmodels.regression.linear_m
+odel.OLSResults object at 0x068F9AB0>>)
+('p values: ', array([  9.00653743e-01,   5.76250655e-20,   1.06634372e-06,
+         3.18088764e-02,   2.61753514e-05,   6.68502530e-01]))
+('t values', array([ 0.12486871,  9.35517672, -4.91081008, -2.14995741,  4.22504
+315,
+       -0.42833664]))
